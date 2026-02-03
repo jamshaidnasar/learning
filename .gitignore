@@ -1,0 +1,7 @@
+# Rust build output
+target/
+Cargo.lock
+
+# IDEs and editors
+.vscode/
+.qoder/
