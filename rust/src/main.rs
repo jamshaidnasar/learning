@@ -2,7 +2,7 @@
 fn addition() {
     let a = 5;
     let b = 10;
-    println!("The sum of a and b is {a + b}");
+    println!("The sum of a and b is {{a + b}}");
 }
 
 //! the main function of the program
