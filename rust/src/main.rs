@@ -1,11 +1,11 @@
-// a simple function to add two numbers
+/// a simple function to add two numbers
 fn addition() {
     let _a = 5;
     let _b = 10;
     println!("The sum of a and b is {{a + b}}");
 }
 
-//! the main function of the program
+/// the main function of the program
 fn main() {
     println!("Hello, world!");
 
