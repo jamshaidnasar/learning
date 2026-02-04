@@ -1,7 +1,7 @@
 // a simple function to add two numbers
 fn addition() {
-    let a = 5;
-    let b = 10;
+    let _a = 5;
+    let _b = 10;
     println!("The sum of a and b is {{a + b}}");
 }
 
@@ -18,7 +18,7 @@ fn main() {
     age = 17;
     println!("I am {age} years old now.");
 
-    println!("\n")
+    println!("\n");
     println!("Addition function:");
     addition();
 }
